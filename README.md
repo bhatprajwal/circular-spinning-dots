@@ -11,4 +11,7 @@ This interactive feature improves user interaction by adding a visually dynamic 
 
 This web component is ideal for any web applications requiring an interactive and colorful loading screen or waiting indicator
 
+Demo:
+https://codepen.io/bhatprajwal/pen/dyEzPNE
+
 Happy Coding!!
